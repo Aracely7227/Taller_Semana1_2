@@ -1,11 +1,11 @@
-package TALLER_PRACTICO_SEMANA1;
+package taller_practico_semana1;
 
-public class Persona {
+public class CASO_2_Clase_Persona {
 
 private static String Nombre;
 private static Integer Edad;
 
-public   Persona(String Nombre,Integer Edad) {
+public   CASO_2_Clase_Persona(String Nombre,Integer Edad) {
 	this.Nombre= Nombre;
 	this.Edad = Edad;
 }
@@ -17,12 +17,12 @@ public void mostrarDatos() {
 }
 
 	public static void main(String[] args) {
-		 Persona persona = new Persona("Aracely", 22);
-	     Persona persona2 = new Persona("Lizeth", 22);
+		 CASO_2_Clase_Persona cASO_2_Clase_Persona = new CASO_2_Clase_Persona("Aracely", 22);
+	     CASO_2_Clase_Persona persona2 = new CASO_2_Clase_Persona("Lizeth", 22);
 
 	    
 	        System.out.println("Datos de la Persona 1:");
-	        persona.mostrarDatos();
+	        cASO_2_Clase_Persona.mostrarDatos();
 
 	        System.out.println();
 

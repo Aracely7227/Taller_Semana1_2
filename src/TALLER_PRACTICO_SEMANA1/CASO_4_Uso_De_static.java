@@ -1,4 +1,4 @@
-package TALLER_PRACTICO_SEMANA1;
+package taller_practico_semana1;
 
 public class CASO_4_Uso_De_static {
 	static int contador = 0;

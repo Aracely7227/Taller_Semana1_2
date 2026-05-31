@@ -1,4 +1,4 @@
-package TALLER_PRACTICO_SEMANA1;
+package taller_practico_semana1;
 
 import java.util.Scanner;
 
