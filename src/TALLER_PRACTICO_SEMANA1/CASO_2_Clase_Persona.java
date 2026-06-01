@@ -11,7 +11,6 @@ public   CASO_2_Clase_Persona(String Nombre,Integer Edad) {
 }
 public void mostrarDatos() {
 	
-	//hola desde java.
 	System.out.println("Nombre: " +Nombre);
 	System.out.println("Edad: " +Edad);
 }
@@ -32,5 +31,3 @@ public void mostrarDatos() {
 	}
 
 }
-
-//HOLAMUNDO
